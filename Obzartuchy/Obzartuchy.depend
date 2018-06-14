@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1375462662 source:c:\users\konrad\documents\programowanie\c++\spoj\obzartuchy\main.cpp
+	<iostream>
+	<math.h>
+

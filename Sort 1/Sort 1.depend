@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1381863001 source:c:\users\konrad\documents\programowanie\c++\spoj\sort 1\main.cpp
+	<iostream>
+	<map>
+	<math.h>
+

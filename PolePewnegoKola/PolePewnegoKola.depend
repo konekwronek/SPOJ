@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1373654170 source:c:\users\konrad\documents\programowanie\c++\spoj\polepewnegokola\main.cpp
+	<cstdio>
+	<iostream>
+	<math.h>
+
